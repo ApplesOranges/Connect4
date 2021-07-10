@@ -177,19 +177,5 @@ infalible abriendo la posibilidad de ganar como usuario no
 obstante, con un alto grado de dificultad.
 ```
 
-Referencias
 
-[http://www.informatik.uni-](http://www.informatik.uni-)
-trier.de/~fernau/DSL0607/Masterthesis-Viergewinnt.pdf
-
-https://roadtolarissa.com/connect- 4 - ai-how-it-works/
-
-https://qcsalon.net/es/connect4#:~:text=Reglas%20del%20jue
-go,horizontalmente%2C%20verticalmente%20o%20en%20di
-agonal
-
-https://www.youtube.com/watch?v=l-hh51ncgDI
-
-https://stackoverflow.com/questions/10985000/how-should-i-
-design-a-good-evaluation-function-for-connect- 4
 
